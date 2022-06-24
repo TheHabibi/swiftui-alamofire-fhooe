@@ -7,4 +7,3 @@
 
 ![](https://i.ibb.co/xLDcPTX/Untitled-3.png)
 
-[![](https://i.ibb.co/xXPPb4J/fhooe.png)](https://i.ibb.co/xXPPb4J/fhooe.png)
