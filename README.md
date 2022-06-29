@@ -2,7 +2,7 @@
 ### Features
 - An app which provides users information about the available study programs from FHOOE.
 - Used swiftUI and Alamo Fire Framework.
-- Built an API from scratch. for FHOOE Bachelors Programs.
+- I built an API from scratch using web scraping for FHOOE Bachelors Programs.
 - You can access the API from [FHOOE API](https://github.com/TheHabibi/fhooe-api "FHOOE API")
 
 ### How to Use
